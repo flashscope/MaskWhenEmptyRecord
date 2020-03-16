@@ -17,7 +17,7 @@
 <br>
 <br>저는 프론트 개발자가 아니다 보니 어떤 식으로 제공해 드리는 게 좋을지 몰라서
 <br>임의대로 hash = code % 1000으로 파일 천 개에 나누어서 커밋을 합니다.
-<br>https://raw.githubusercontent.com/flashscope/MaskWhenEmptyRecord/master/datas/maskRecord-<hash>.json
+<br>https://raw.githubusercontent.com/flashscope/MaskWhenEmptyRecord/master/datas/maskRecord-<hash\>.json
 <br>
 <br>만약 code가 11856777인 약국을 찾으시려면 code % 1000 = 777이므로
 <br>https://raw.githubusercontent.com/flashscope/MaskWhenEmptyRecord/master/datas/maskRecord-777.json
