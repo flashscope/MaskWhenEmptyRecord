@@ -159,6 +159,14 @@
     "whenSome" : "2020-04-06 13:10:53",
     "whenPlenty" : "2020-04-06 09:05:39",
     "whenBreak" : "2020-04-06 19:37:02"
+  }, {
+    "date" : "2020-04-07",
+    "whenEmpty" : "",
+    "whenFew" : "",
+    "stock_at" : "2020/04/06 09:01:00",
+    "whenSome" : "",
+    "whenPlenty" : "",
+    "whenBreak" : "2020-04-07 00:05:08"
   } ],
   "3038208998" : [ {
     "date" : "2020-03-17",
@@ -320,6 +328,14 @@
     "whenSome" : "2020-04-06 11:10:54",
     "whenPlenty" : "2020-04-06 10:46:42",
     "whenBreak" : "2020-04-06 17:22:36"
+  }, {
+    "date" : "2020-04-07",
+    "whenEmpty" : "",
+    "whenFew" : "",
+    "stock_at" : "2020/04/06 08:30:00",
+    "whenSome" : "",
+    "whenPlenty" : "",
+    "whenBreak" : "2020-04-07 00:05:15"
   } ],
   "12805998" : [ {
     "date" : "2020-03-17",
@@ -481,6 +497,14 @@
     "whenSome" : "",
     "whenPlenty" : "2020-04-06 11:06:05",
     "whenBreak" : "2020-04-06 20:57:21"
+  }, {
+    "date" : "2020-04-07",
+    "whenEmpty" : "",
+    "whenFew" : "",
+    "stock_at" : "2020/04/06 11:01:00",
+    "whenSome" : "",
+    "whenPlenty" : "",
+    "whenBreak" : "2020-04-07 00:05:05"
   } ],
   "36834998" : [ {
     "date" : "2020-03-17",
@@ -642,6 +666,14 @@
     "whenSome" : "2020-04-06 08:51:13",
     "whenPlenty" : "",
     "whenBreak" : "2020-04-06 00:04:08"
+  }, {
+    "date" : "2020-04-07",
+    "whenEmpty" : "2020-04-07 00:05:12",
+    "whenFew" : "",
+    "stock_at" : "2020/04/06 08:45:00",
+    "whenSome" : "",
+    "whenPlenty" : "",
+    "whenBreak" : ""
   } ],
   "11856998" : [ {
     "date" : "2020-03-17",
@@ -803,6 +835,14 @@
     "whenSome" : "",
     "whenPlenty" : "2020-04-06 15:01:29",
     "whenBreak" : "2020-04-06 18:32:38"
+  }, {
+    "date" : "2020-04-07",
+    "whenEmpty" : "",
+    "whenFew" : "",
+    "stock_at" : "2020/04/06 09:19:00",
+    "whenSome" : "",
+    "whenPlenty" : "",
+    "whenBreak" : "2020-04-07 00:05:12"
   } ],
   "36805998" : [ {
     "date" : "2020-03-17",
@@ -963,6 +1003,14 @@
     "stock_at" : "2020/04/04 08:58:00",
     "whenSome" : "2020-04-06 16:36:09",
     "whenPlenty" : "2020-04-06 10:36:29",
+    "whenBreak" : ""
+  }, {
+    "date" : "2020-04-07",
+    "whenEmpty" : "2020-04-07 00:05:08",
+    "whenFew" : "",
+    "stock_at" : "2020/04/06 09:15:00",
+    "whenSome" : "",
+    "whenPlenty" : "",
     "whenBreak" : ""
   } ],
   "36828998" : [ {
@@ -1125,6 +1173,14 @@
     "whenSome" : "2020-04-06 15:36:09",
     "whenPlenty" : "2020-04-06 07:45:20",
     "whenBreak" : ""
+  }, {
+    "date" : "2020-04-07",
+    "whenEmpty" : "",
+    "whenFew" : "",
+    "stock_at" : "2020/04/06 07:44:00",
+    "whenSome" : "2020-04-07 00:05:15",
+    "whenPlenty" : "",
+    "whenBreak" : ""
   } ],
   "35804998" : [ {
     "date" : "2020-03-17",
@@ -1285,6 +1341,14 @@
     "stock_at" : "2020/04/04 07:57:00",
     "whenSome" : "",
     "whenPlenty" : "2020-04-06 00:04:04",
+    "whenBreak" : ""
+  }, {
+    "date" : "2020-04-07",
+    "whenEmpty" : "",
+    "whenFew" : "",
+    "stock_at" : "2020/04/06 07:56:00",
+    "whenSome" : "",
+    "whenPlenty" : "2020-04-07 00:05:04",
     "whenBreak" : ""
   } ],
   "38813998" : [ {
@@ -1447,6 +1511,14 @@
     "whenSome" : "2020-04-06 17:22:36",
     "whenPlenty" : "2020-04-06 08:21:04",
     "whenBreak" : ""
+  }, {
+    "date" : "2020-04-07",
+    "whenEmpty" : "2020-04-07 00:05:15",
+    "whenFew" : "",
+    "stock_at" : "2020/04/06 08:18:00",
+    "whenSome" : "",
+    "whenPlenty" : "",
+    "whenBreak" : ""
   } ],
   "12863998" : [ {
     "date" : "2020-03-17",
@@ -1605,6 +1677,14 @@
     "whenEmpty" : "2020-04-06 00:04:01",
     "whenFew" : "",
     "stock_at" : "2020/04/04 09:03:00",
+    "whenSome" : "",
+    "whenPlenty" : "",
+    "whenBreak" : ""
+  }, {
+    "date" : "2020-04-07",
+    "whenEmpty" : "2020-04-07 00:05:00",
+    "whenFew" : "",
+    "stock_at" : "2020/04/06 12:40:00",
     "whenSome" : "",
     "whenPlenty" : "",
     "whenBreak" : ""
@@ -1769,6 +1849,14 @@
     "whenSome" : "",
     "whenPlenty" : "2020-04-06 08:36:28",
     "whenBreak" : "2020-04-06 18:25:58"
+  }, {
+    "date" : "2020-04-07",
+    "whenEmpty" : "",
+    "whenFew" : "",
+    "stock_at" : "2020/04/06 08:34:00",
+    "whenSome" : "",
+    "whenPlenty" : "",
+    "whenBreak" : "2020-04-07 00:05:08"
   } ],
   "38807998" : [ {
     "date" : "2020-03-17",
@@ -1929,6 +2017,14 @@
     "stock_at" : "2020/04/04 16:34:00",
     "whenSome" : "",
     "whenPlenty" : "2020-04-06 00:04:04",
+    "whenBreak" : ""
+  }, {
+    "date" : "2020-04-07",
+    "whenEmpty" : "",
+    "whenFew" : "",
+    "stock_at" : "2020/04/06 06:28:00",
+    "whenSome" : "",
+    "whenPlenty" : "2020-04-07 00:05:05",
     "whenBreak" : ""
   } ],
   "12857998" : [ {
@@ -2091,6 +2187,14 @@
     "whenSome" : "2020-04-06 17:22:36",
     "whenPlenty" : "2020-04-06 00:04:10",
     "whenBreak" : "2020-04-06 19:21:32"
+  }, {
+    "date" : "2020-04-07",
+    "whenEmpty" : "",
+    "whenFew" : "",
+    "stock_at" : "2020/04/06 09:38:00",
+    "whenSome" : "",
+    "whenPlenty" : "",
+    "whenBreak" : "2020-04-07 00:05:15"
   } ],
   "31875998" : [ {
     "date" : "2020-03-17",
@@ -2251,6 +2355,14 @@
     "stock_at" : "2020/04/05 15:42:00",
     "whenSome" : "",
     "whenPlenty" : "2020-04-06 12:56:09",
+    "whenBreak" : ""
+  }, {
+    "date" : "2020-04-07",
+    "whenEmpty" : "",
+    "whenFew" : "",
+    "stock_at" : "2020/04/06 09:34:00",
+    "whenSome" : "",
+    "whenPlenty" : "2020-04-07 00:05:12",
     "whenBreak" : ""
   } ],
   "41838998" : [ {
@@ -2413,5 +2525,13 @@
     "whenSome" : "2020-04-06 09:00:29",
     "whenPlenty" : "",
     "whenBreak" : "2020-04-06 00:04:04"
+  }, {
+    "date" : "2020-04-07",
+    "whenEmpty" : "2020-04-07 00:05:05",
+    "whenFew" : "",
+    "stock_at" : "2020/04/06 08:57:00",
+    "whenSome" : "",
+    "whenPlenty" : "",
+    "whenBreak" : ""
   } ]
 }
